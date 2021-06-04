@@ -1,0 +1,2 @@
+As github is not allow very big file upload, please download SWAT CSV used in our code from swat datasets' official site: https://itrust.sutd.edu.sg/itrust-labs_datasets/dataset_info/
+and then write all files into one file named swatall.csv

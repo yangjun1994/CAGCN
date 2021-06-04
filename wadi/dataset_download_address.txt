@@ -1,0 +1,1 @@
+As github is not allow very big file upload, please download WADI_14days.csv and WADI_attackdata.csv from wadi datasets' official site: https://itrust.sutd.edu.sg/itrust-labs_datasets/dataset_info/
